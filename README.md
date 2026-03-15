@@ -1,7 +1,6 @@
 # javascript-test-0002-final-13610-nikhil
 Final Project Assignment - This repository contains the complete final project code and documentation.
 let n = 5;
-
 for (let i = n; i >= 1; i--) {
     let row = "";
     for (let s = 0; s < n - i; s++) {
