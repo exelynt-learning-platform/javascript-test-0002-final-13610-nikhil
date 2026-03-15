@@ -13,6 +13,5 @@ for (let i = n; i >= 1; i--) {
         row += num + " ";
         num = num * (i - j - 1) / (j + 1);
     }
-
     console.log(row);
 }
